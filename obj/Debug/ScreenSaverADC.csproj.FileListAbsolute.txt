@@ -1,0 +1,9 @@
+c:\users\c164246\documents\visual studio 2013\Projects\ScreenSaverADC\ScreenSaverADC\bin\Debug\ScreenSaverADC.exe.config
+c:\users\c164246\documents\visual studio 2013\Projects\ScreenSaverADC\ScreenSaverADC\bin\Debug\ScreenSaverADC.exe
+c:\users\c164246\documents\visual studio 2013\Projects\ScreenSaverADC\ScreenSaverADC\bin\Debug\ScreenSaverADC.pdb
+c:\users\c164246\documents\visual studio 2013\Projects\ScreenSaverADC\ScreenSaverADC\obj\Debug\ScreenSaverADC.exe
+c:\users\c164246\documents\visual studio 2013\Projects\ScreenSaverADC\ScreenSaverADC\obj\Debug\ScreenSaverADC.pdb
+c:\users\c164246\documents\visual studio 2013\Projects\ScreenSaverADC\ScreenSaverADC\obj\Debug\ScreenSaverADC.csproj.GenerateResource.Cache
+c:\users\c164246\documents\visual studio 2013\Projects\ScreenSaverADC\ScreenSaverADC\bin\Debug\waves\HouseFireAlarm.wav
+c:\users\c164246\documents\visual studio 2013\Projects\ScreenSaverADC\ScreenSaverADC\bin\Debug\waves\Siren.wav
+c:\users\c164246\documents\visual studio 2013\Projects\ScreenSaverADC\ScreenSaverADC\obj\Debug\ScreenSaverADC.ScreenBackdropForm.resources
